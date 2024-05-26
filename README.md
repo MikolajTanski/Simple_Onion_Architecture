@@ -48,4 +48,4 @@ Dependency injection is implemented using the built-in features of .NET Core and
 
 ## License
 
-The project is made available under the [MIT License](LICENSE).
+The project is made available under the [MIT License](LICENSE.txt).
